@@ -1,0 +1,6 @@
+colors
+    Primary: #def5db (RGB: 222, 245, 219)
+    Secondary: #040c03 (RGB: 4, 12, 3)
+    Primary Button: #7edda2 (RGB: 126, 221, 162)
+    Secondary Button: #0a2421 (RGB: 10, 36, 33)
+    Accent: #33c1b1 (RGB: 51, 193, 177)
